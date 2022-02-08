@@ -75,7 +75,7 @@
  #home::before{
     
         content: "";
-        background: url('../img/paul-earle-wVjd0eWNqI8-unsplash.jpg') no-repeat center/cover;
+        background: url('Firsttestwebsite/paul-earle-wVjd0eWNqI8-unsplash.jpg') no-repeat center/cover;
         position: absolute;
         height: 100%;
         width: 100%;
