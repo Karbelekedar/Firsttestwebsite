@@ -76,7 +76,7 @@
     
         content: "";
 /*         background: url('simple-blog-website/paul-earle-wVjd0eWNqI8-unsplash.JPG') no-repeat center/cover;  */
-     background-image:url("paul-earle-wVjd0eWNqI8-unsplash.jpg");
+     background-image:url("./paul-earle-wVjd0eWNqI8-unsplash.jpg");
      background-size:cover;
         position: absolute;
         height: 100%;
